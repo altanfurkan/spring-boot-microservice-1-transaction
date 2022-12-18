@@ -1,0 +1,8 @@
+{
+  "name": "mfa-microservice-transaction",
+  "buildpack": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
